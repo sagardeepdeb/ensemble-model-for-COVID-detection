@@ -21,3 +21,11 @@ _Our model_ | 88.92
 The confusion matrix for the same is given below
 
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model-for-COVID-detection/blob/master/confusion_marix.png)
+
+The same problem was extended for binary class classification. The following measures are collected for binary classification.
+
+
+Class        |	Precision (%)	|  Recall(%) | F-measure(\%)
+------------ | ---------------| ---------- | -------------
+COVID-19     |     87.41      |    97.05   |    91.97 	
+NonCOVID-19  |     99.72      |    98.74   |    99.23
