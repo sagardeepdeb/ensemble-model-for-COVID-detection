@@ -4,8 +4,8 @@ The year 2020 will certainly be remembered for the COVID-19 outbreak. First repo
 Researchers all around the world are working day and night to counter this pandemic. Researchers of image processing and bio-medical engineering fields are also not left behind.
 In the beginning, individual DCNN structures are used for feature extraction, which are provided into a fully connected layer for classification task. Later on we have used the ensemble of the four most common DCNN structures for feature extraction. As shown in figure 1, the low level features from the input images are extracted using an ensemble of the four pre-trained DCNNs. The details of the feature length and the architecture are given in table 1. We have observed that employing such design enhances the classification performance. A brief description of all the four DCNNs structures are given below.
 
-
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model-for-COVID-detection/blob/master/model.PNG)
+Comparision between the performance of the individual DCNN structures along with that of our ensemble model is given below
 
 Architecture | Performance
 ------------ | -------------
