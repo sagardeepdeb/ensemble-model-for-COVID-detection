@@ -27,8 +27,8 @@ The confusion matrix for the same is given below
 Class        |	Precision (%)	|  Recall(%) | F-measure(%)
 ------------ | ---------------| ---------- | -------------
   CAP        |      89        |     85     |      87 		
-	COVID-19   |      94        |     62     |      75 
-	Normal     |      88        |     96     |      92
+COVID-19     |      94        |     62     |      75 
+Normal       |      88        |     96     |      92
 
 The same problem was extended for binary class classification. The following measures are collected for binary classification.
 
