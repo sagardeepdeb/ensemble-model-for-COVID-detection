@@ -31,3 +31,9 @@ Class        |	Precision (%)	|  Recall(%) | F-measure(\%)
 ------------ | ---------------| ---------- | -------------
 COVID-19     |     87.41      |    97.05   |    91.97 	
 NonCOVID-19  |     99.72      |    98.74   |    99.23
+
+
+
+Sources
+
+[GitHub](http://github.com)
