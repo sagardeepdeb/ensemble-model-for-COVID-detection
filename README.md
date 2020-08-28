@@ -17,7 +17,7 @@ VGG | 87.23
 GoogleNet | 86.78
 DenseNet | 85.67
 NASNet | 83.23
-_Our model_ | 88.92
+__Our model__ | __88.92__
 
 
 The confusion matrix for the same is given below
@@ -34,6 +34,7 @@ NonCOVID-19  |     99.72      |    98.74   |    99.23
 
 
 
-Sources
+# Sources
 
-[GitHub](http://github.com)
+[Dataset Used](https://github.com/ieee8023/covid-chestxray-dataset) 
+[Kaggle Dataset for COVID-19 only] (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
