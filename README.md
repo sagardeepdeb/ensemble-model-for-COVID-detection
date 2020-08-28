@@ -24,15 +24,22 @@ The confusion matrix for the same is given below
 
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model-for-COVID-detection/blob/master/confusion_marix.png)
 
+Class        |	Precision (%)	|  Recall(%) | F-measure(%)
+------------ | ---------------| ---------- | -------------
+  CAP        |      89        |     85     |      87 		
+	COVID-19   |      94        |     62     |      75 
+	Normal     |      88        |     96     |      92
+
 The same problem was extended for binary class classification. The following measures are collected for binary classification.
 
-
-Class        |	Precision (%)	|  Recall(%) | F-measure(\%)
+Class        |	Precision (%)	|  Recall(%) | F-measure(%)
 ------------ | ---------------| ---------- | -------------
 COVID-19     |     87.41      |    97.05   |    91.97 	
 NonCOVID-19  |     99.72      |    98.74   |    99.23
 
+# Dataset
 
+The dataset used in for the experimentation is the one found in Cohen et. al. As the number of COVID examples are very less so we have added the same from kaggle chest-xray-covid19-pneumonia dataset. The dataset is uploaded in Google Drive and can be found [here](https://drive.google.com/drive/folders/1yUaU4ZX5K65cL7eqBETQiFrrZxIhPNZi?usp=sharing)
 
 # Sources
 
