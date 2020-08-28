@@ -36,5 +36,7 @@ NonCOVID-19  |     99.72      |    98.74   |    99.23
 
 # Sources
 
-[Dataset Used](https://github.com/ieee8023/covid-chestxray-dataset) 
-[Kaggle Dataset for COVID-19 only] (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+[Dataset Used, Cohen et. al.](https://github.com/ieee8023/covid-chestxray-dataset) 
+
+
+[Kaggle Dataset for COVID-19 only](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
