@@ -51,3 +51,16 @@ The dataset used in for the experimentation is the one found in Cohen et. al. As
 
 
 [Kaggle Dataset for COVID-19 only](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+
+## Citation
+Please cite our paper if you find the work useful: 
+<pre>
+  @article{deb2021multi,
+  title={A multi model ensemble based deep convolution neural network structure for detection of COVID19},
+  author={Deb, Sagar Deep and Jha, Rajib Kumar and Jha, Kamlesh and Tripathi, Prem S},
+  journal={Biomedical Signal Processing and Control},
+  pages={103126},
+  year={2021},
+  publisher={Elsevier}}
+</pre>
